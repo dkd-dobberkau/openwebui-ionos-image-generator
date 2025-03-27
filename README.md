@@ -1,6 +1,6 @@
 # IONOS Image Generator for Open WebUI
 
-A Pipe integration for Open WebUI that allows generating images using the IONOS AI Model Hub.
+A Pipe integration for Open WebUI that allows images to be generated using the IONOS AI Model Hub.
 
 ## Features
 
@@ -11,11 +11,13 @@ A Pipe integration for Open WebUI that allows generating images using the IONOS 
 
 ## Installation
 
-See [installation instructions](docs/installation.md) for details on how to install and set up this pipe.
+For details on how to install and set up this pipe, see [installation instructions](docs/installation.md).
+
+Find it here: https://openwebui.com/f/olivierdo/ionos_image_generation
 
 ## Usage
 
-Check the [usage guide](docs/usage.md) for information on how to use the image generator.
+Check the usage guide (usage.md) for information on using the image generator.
 
 ## Requirements
 
@@ -24,7 +26,7 @@ Check the [usage guide](docs/usage.md) for information on how to use the image g
 
 ## Configuration
 
-Set your IONOS API key either:
+Set your IONOS API key as either:
 - Through the valve configuration in Open WebUI interface
 - As an environment variable: `IONOS_API_TOKEN`
 
