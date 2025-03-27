@@ -3,8 +3,8 @@
 ## Selecting the Model
 
 1. In the Open WebUI chat interface, select one of the IONOS image generation models from the dropdown:
-   - IONOS/Stable Diffusion XL
-   - IONOS/FLUX.1
+   - IONOS/Stable Diffusion XL stabilityai/stable-diffusion-xl-base-1.0
+   - IONOS/FLUX.1 black-forest-labs/FLUX.1-schnell
 
 ## Generating Images
 
