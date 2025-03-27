@@ -1,3 +1,5 @@
+# IONOS Image Generator Pipe with Inline Image Display
+# by https://github.com/dkd-dobberkau/openwebui-ionos-image-generator
 from pydantic import BaseModel, Field
 import requests
 import json
